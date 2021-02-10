@@ -4,21 +4,21 @@
       "id": 1,
       "name": "Harry Potter",
       "house": "Gryffindor",
-      "points": 0,
+      "points": 20,
       "image": "https://api.time.com/wp-content/uploads/2014/07/301386_full1.jpg?w=800&quality=85"
     },
     {
       "id": 2,
       "name": "Hermione Granger",
       "house": "Gryffindor",
-      "points": 0,
+      "points": 2000,
       "image": "https://static.wikia.nocookie.net/harrypotter/images/3/34/Hermione_Granger.jpg/revision/latest/scale-to-width-down/1000?cb=20161221044857"
     },
     {
       "id": 3,
       "name": "Draco Malfoy",
       "house": "Slytherin",
-      "points": 0,
+      "points": 10,
       "image": "https://static.wikia.nocookie.net/harrypotter/images/7/7e/Draco_Malfoy_TDH.png/revision/latest/scale-to-width-down/1000?cb=20180116013508"
     },
     {
@@ -32,14 +32,14 @@
       "id": 5,
       "name": "Cho Chang",
       "house": "Ravenclaw",
-      "points": 0,
+      "points": 100,
       "image": "https://static.wikia.nocookie.net/harrypotter/images/1/1e/Cho_Chang.jpg/revision/latest/scale-to-width-down/1000?cb=20180322164130"
     },
     {
       "id": 6,
       "name": "Cedric Diggory",
       "house": "Hufflepuff",
-      "points": 0,
+      "points": 20,
       "image": "https://static.wikia.nocookie.net/harrypotter/images/9/90/Cedric_Diggory_Profile.png/revision/latest/scale-to-width-down/700?cb=20161123045136"
     },
     {
@@ -53,13 +53,13 @@
       "id": 8,
       "name": "Luna Lovegood",
       "house": "Ravenclaw",
-      "points": 0,
+      "points": 200,
       "image": "https://static.wikia.nocookie.net/harrypotter/images/e/ed/Luna_Lovegood.jpg/revision/latest/scale-to-width-down/673?cb=20160902165706"
     },
     {
       "id": 9,
       "name": "Terry Boot",
-      "house": "Raven Claw",
+      "house": "Ravenclaw",
       "points": 0,
       "image": "https://static.wikia.nocookie.net/harrypotter/images/7/77/Terry_Boot_HP5_PC.jpg/revision/latest/scale-to-width-down/679?cb=20180709223304"
     },
@@ -95,22 +95,8 @@
       "id": 14,
       "name": "Severus Snape",
       "house": "Slytherin",
-      "points": 0,
+      "points": 50,
       "image": "https://static.wikia.nocookie.net/harrypotter/images/a/a3/Severus_Snape.jpg/revision/latest/scale-to-width-down/670?cb=20150307193047"
-    },
-    {
-      "name": "sadfsdfsa",
-      "image": "sdsdfasdfads",
-      "house": "sadfsfadfssfd",
-      "points": 0,
-      "id": 15
-    },
-    {
-      "name": "sdasdf",
-      "image": "dsafsdfa",
-      "house": "sdffdsaafsd",
-      "points": 0,
-      "id": 16
     }
   ]
 }

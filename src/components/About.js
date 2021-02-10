@@ -5,7 +5,7 @@ export const About = ({ showContainer, showSearch }) => {
           <div className="jumbotron bg-secondary text-center text-danger mb-0 radius-0">
             <div className="container">
                 <div className="ht-tm-header">
-                    <h1 className="display-1 display-xxl text-uppercase">Hogwartsr</h1>
+                    <h1 className="display-1 display-xxl text-uppercase">Hogwarts</h1>
                     <span className="lead">A cool app to see cool harry potter things</span>
         
                     <div className="mt-4">

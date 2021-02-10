@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const Navbar = ({ showAbout }) => {
+export const Navbar = ({ showAbout, showHouses, showLeadHouse }) => {
     return (
         <div className="bg-danger navbar-dark text-white">
             <div className="container">
@@ -12,8 +12,8 @@ export const Navbar = ({ showAbout }) => {
                     <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                         <div className="navbar-nav">
                             <a onClick={showAbout} href="#!" className="pl-md-0 p-3 text-white navbar-brand">Home</a>
-                            <a href="#!" className="p-3 text-decoration-none text-white">Place Holder</a>
-                            <a href="#!" className="p-3 text-decoration-none text-white">Place Holder</a>
+                            <a onClick={showHouses} href="#!" className="p-3 text-decoration-none text-white">Houses</a>
+                            <a onClick={showLeadHouse} href="#!" className="p-3 text-decoration-none text-white">Leading House</a>
                         </div>
                     </div>
                 </nav>
